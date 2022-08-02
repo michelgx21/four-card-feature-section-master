@@ -16,7 +16,7 @@ body{
     background-color: var(--VeryLightGray);
     font-family: 'Poppins',sans-serif;
     font-size: 15px;
-    color: var(--VeryDarkBlue);
+    color: var(--GrayishBlue);
     padding: 20px 0;
 }
 h1,h2{
